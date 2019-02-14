@@ -1,6 +1,8 @@
 # smoothies
 
-> A Vue.js project
+> A Vue.js and Firebase project
+
+<a href="https://ninja-smoothies-bc4eb.firebaseapp.com">Go to Smoothies site</a>
 
 ## Build Setup
 
